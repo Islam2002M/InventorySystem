@@ -1,4 +1,5 @@
 ﻿using System;
+using InventorySystem.Domain.inventory;
 
 namespace InventorySystem
 {
@@ -6,6 +7,40 @@ namespace InventorySystem
     {
         static void Main(string[] args)
         {
+            Inventory inventory = new Inventory();
+            int choice;
+           
+            do
+            {
+                Console.WriteLine("Please enter a choice #");
+                Console.WriteLine("1.add a product"
+                                  +"\n 2.view all Products"
+                                  +"\n 3.Edit a product"
+                                  + "\n 4.Delete a product"
+                                  +"\n 5.Search for a product" +
+                                  "\n 6.Exit");
+                choice = int.Parse(Console.ReadLine());
+                if (choice == 1)
+                {
+                }
+                else if (choice==2)
+
+                {
+                }
+                else if (choice==3)
+
+                {
+                }
+                else if (choice==4)
+
+                {
+                }
+                else if (choice==5)
+
+                {
+                }
+                
+            } while ( choice!= 6);
         }
     }
 }
