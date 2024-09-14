@@ -1,4 +1,5 @@
-﻿using InventorySystem.Domain.General;
+﻿using System;
+using InventorySystem.Domain.General;
 
 namespace InventorySystem.Domain.productMangment
 {
@@ -25,6 +26,11 @@ namespace InventorySystem.Domain.productMangment
             Quantity = quntity;
             Name = name;
             Price = price;
+        }
+
+        public void ViewProduct()
+        {
+            Console.WriteLine($"\n{Name} , is in stock: {quntityInStock} , its price: {Price}");
         }
     }
    

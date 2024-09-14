@@ -37,8 +37,8 @@ namespace InventorySystem
 
                 }
                 else if (choice==2)
-
                 {
+                    inventory.ViewProducts();
                 }
                 else if (choice==3)
 
