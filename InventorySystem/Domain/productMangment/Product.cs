@@ -20,7 +20,7 @@ namespace InventorySystem.Domain.productMangment
             Quantity = quntity;
             Name = name;
         }
-        public Product(int quntity, string name, Price price)
+        public Product( string name,Price price,int quntity)
         {
             Quantity = quntity;
             Name = name;
