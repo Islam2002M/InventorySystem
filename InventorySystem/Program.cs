@@ -51,6 +51,9 @@ namespace InventorySystem
                 else if (choice==5)
 
                 {
+                    Console.WriteLine("Enter the product name");
+                    string name = Console.ReadLine();
+                    inventory.search(name);
                 }
                 
             } while ( choice!= 6);
