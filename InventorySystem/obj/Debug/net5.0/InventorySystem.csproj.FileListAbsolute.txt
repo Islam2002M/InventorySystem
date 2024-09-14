@@ -1,0 +1,16 @@
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.exe
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.deps.json
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.runtimeconfig.json
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.runtimeconfig.dev.json
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.dll
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\bin\Debug\net5.0\ref\InventorySystem.dll
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\bin\Debug\net5.0\InventorySystem.pdb
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csprojAssemblyReference.cache
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.AssemblyInfo.cs
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.dll
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\obj\Debug\net5.0\ref\InventorySystem.dll
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.pdb
+C:\Users\msi\RiderProjects\InventorySystem\InventorySystem\obj\Debug\net5.0\InventorySystem.genruntimeconfig.cache
