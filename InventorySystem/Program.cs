@@ -42,7 +42,9 @@ namespace InventorySystem
                 }
                 else if (choice==3)
                 {
-                    
+                    Console.WriteLine("Enter the product name to edit the product");
+                    string name=Console.ReadLine();
+                    inventory.EditProduct(name);
                     
                 }
                 else if (choice==4)
@@ -59,7 +61,10 @@ namespace InventorySystem
                     string name = Console.ReadLine();
                     inventory.search(name);
                 }
-                
+                else
+                {
+                    Console.WriteLine("Invalid choice");
+                }
             } while ( choice!= 6);
         }
     }
