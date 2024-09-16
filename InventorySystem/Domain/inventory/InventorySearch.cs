@@ -16,8 +16,16 @@ namespace InventorySystem.Domain.inventory
                 }
                
             }
-
            Console.WriteLine("the product dosen't exist");
+        }
+        public int productExists(string name)
+        {
+            for (int i = 0; i < products.Count; i++)
+            {
+                if (products[i].Name == name)
+                    return i;
+            }
+            return -1;
         }
     }
 }
