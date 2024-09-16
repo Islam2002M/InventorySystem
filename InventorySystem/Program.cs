@@ -41,12 +41,16 @@ namespace InventorySystem
                     inventory.ViewProducts();
                 }
                 else if (choice==3)
-
                 {
+                    
+                    
                 }
                 else if (choice==4)
-
                 {
+                    Console.WriteLine("Enter the product name to delete the product");
+                    string name=Console.ReadLine();
+                    inventory.removeProduct(name);
+
                 }
                 else if (choice==5)
 
